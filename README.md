@@ -1,7 +1,7 @@
 <img src="Banner/AppCosmos.png" width="800" />
 
 
-### **Where Ideas Turn Into Products**
+### **Where innovative ideas orbit into powerful apps.**
 
 **AppCosmos** is a collaborative design and development initiative focused on creating the **official GeekHaven app**—from the very first idea to a fully interactive prototype 🚀.
 
@@ -19,9 +19,8 @@ Welcome to **AppCosmos**—let’s design the universe together. 🌌
 
 ## ✒Tech Stack:
 
+- Figma
 - FigJam
-- Figma/Adobe XD
-- Illustrator
 
 ## **Contribution:**
 
@@ -32,6 +31,7 @@ Please follow the below guidelines while contributing to this project:
 3. Create separate branches for each separate piece of work.
 4. Do the work and commit changes with good commit messages.
 5. Once you are confident in your work, create a pull request to the `main` branch of the upstream repository with proper descriptions explaining what you did and wait until we review it.
+6. Read [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 > Check out GitHub Flow for more details.
 > 
